@@ -1,0 +1,13 @@
+# For this notebook you need the package `gym-gridworld` (Links to an external site.),
+# that can be downloaded from Github and installed with `pip`.
+
+# Downloads `gym-gridworld` to the current directory
+git clone https://github.com/andremht/gym-gridworld.git
+
+# Move you to the new `gym-gridworld` directory
+cd gym-gridworld
+
+# Use `pip` to install the package
+pip3 install -e .
+# The . is part of the command,
+# and indicates that you want to install the package found in your current directory.
