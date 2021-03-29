@@ -1,0 +1,4 @@
+# To run the notebook, you need the `gym-bandits` (Links to an external site.) package.
+# You can install it with `pip`.
+# If you use Jupyter via Anaconda execute the command in the Anaconda prompt.
+pip3 install gym-bandits
